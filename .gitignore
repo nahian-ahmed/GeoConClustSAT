@@ -1,0 +1,5 @@
+
+/data.csv
+
+# Ignore files starting with 'data_' and ending with '.csv'
+/data_*.csv
